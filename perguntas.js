@@ -1,17 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matemática',
+    'Quanto é 3x3?',
+    '9'
 )
 
 criaCartao(
     'Geografia',
     'Qual o pais mais pequeno do mundo?',
-    'É o Vaticano '
+    'Vaticano.'
 )
 
 criaCartao(
     'História',
-    'Quem pintou a Mona Lisa?',
-    'Leonardo Da Vinci'
+    'Quem inventou a lampada?',
+    'Foi o Thomas Edison'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz tchau em Inglês?',
+    'Tchau em ingles é goodbye (GODBAI)'
 )
